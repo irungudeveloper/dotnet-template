@@ -1,0 +1,5 @@
+/home/irungu/projects/customdotnet/bin/Debug/net5.0/publish/customdotnet
+/home/irungu/projects/customdotnet/bin/Debug/net5.0/publish/customdotnet.dll
+/home/irungu/projects/customdotnet/bin/Debug/net5.0/publish/customdotnet.deps.json
+/home/irungu/projects/customdotnet/bin/Debug/net5.0/publish/customdotnet.runtimeconfig.json
+/home/irungu/projects/customdotnet/bin/Debug/net5.0/publish/customdotnet.pdb

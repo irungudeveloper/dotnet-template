@@ -1,0 +1,16 @@
+/home/irungu/projects/customdotnet/bin/Debug/net5.0/customdotnet
+/home/irungu/projects/customdotnet/bin/Debug/net5.0/customdotnet.deps.json
+/home/irungu/projects/customdotnet/bin/Debug/net5.0/customdotnet.runtimeconfig.json
+/home/irungu/projects/customdotnet/bin/Debug/net5.0/customdotnet.runtimeconfig.dev.json
+/home/irungu/projects/customdotnet/bin/Debug/net5.0/customdotnet.dll
+/home/irungu/projects/customdotnet/bin/Debug/net5.0/ref/customdotnet.dll
+/home/irungu/projects/customdotnet/bin/Debug/net5.0/customdotnet.pdb
+/home/irungu/projects/customdotnet/obj/Debug/net5.0/customdotnet.csproj.AssemblyReference.cache
+/home/irungu/projects/customdotnet/obj/Debug/net5.0/customdotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/irungu/projects/customdotnet/obj/Debug/net5.0/customdotnet.AssemblyInfoInputs.cache
+/home/irungu/projects/customdotnet/obj/Debug/net5.0/customdotnet.AssemblyInfo.cs
+/home/irungu/projects/customdotnet/obj/Debug/net5.0/customdotnet.csproj.CoreCompileInputs.cache
+/home/irungu/projects/customdotnet/obj/Debug/net5.0/customdotnet.dll
+/home/irungu/projects/customdotnet/obj/Debug/net5.0/ref/customdotnet.dll
+/home/irungu/projects/customdotnet/obj/Debug/net5.0/customdotnet.pdb
+/home/irungu/projects/customdotnet/obj/Debug/net5.0/customdotnet.genruntimeconfig.cache
